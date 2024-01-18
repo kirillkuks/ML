@@ -3,10 +3,9 @@ import os
 
 from text_recognition import TextRecognizer
 from diet_prediction import DietPredictor
-from dataset import get_dataset
 
 
-kLoadModel = False
+kLoadModel = True
 
 
 def main():

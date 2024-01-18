@@ -70,7 +70,7 @@ class DietPredictor:
              product_info['calorie_content'], product_info['sugar'], product_info['expiration_date']]
         
         x.extend([person_info['sex'], person_info['age'], person_info['height'], person_info['weight'], person_info['disease']])
-        return self.regressor.predict(x)
+        return int(self.regressor.predict(x))
 
 
     @staticmethod
