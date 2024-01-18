@@ -4,6 +4,7 @@ import cv2
 import pytesseract
 import re
 
+from dataset import Product
 
 def is_float(value):
   if value is None:
@@ -24,8 +25,9 @@ class TextRecognizer:
         text = pytesseract.image_to_string(img, lang='rus')
         
         #print(text)
-        key_words = self._contain_key_word(text)
-        print(f'{img_path}: {key_words}')
+        #print(f'{img_path}: {key_words}')
+
+        return self._contain_key_word(text)
 
 
     def _contain_key_word(self, text: str) -> List:
@@ -34,11 +36,11 @@ class TextRecognizer:
 
         product_info = {
             'product': None,
-            'protein' : None,
-            'fats': None,
-            'carbohydrates': None,
+            'protein' : 0.0,
+            'fats': 0.0,
+            'carbohydrates': 0.0,
             'calorie_content': None,
-            'sugar' : None,
+            'sugar' : 0.0,
             'expiration_date': None
         }
 
@@ -59,7 +61,7 @@ class TextRecognizer:
         if re.search(r'\bжир[ыао]в?\b', new_str, re.IGNORECASE):
             key_words.append('жиры')
 
-            match = re.search(r'\bжир[ыао]в?\s?[—-]?[0123456789]+[,\s.]?[0123456789]+\s?[г]?', new_str, re.IGNORECASE)
+            match = re.search(r'жир[ыао]в?\s?[—-]?\s?[0123456789]+[,.\s]?[0123456789]+\s?[г]?', new_str, re.IGNORECASE)
             if match:
                 product_info['fats'] = get_from_math(match)
 
@@ -120,6 +122,28 @@ class TextRecognizer:
 
         if re.search(r'сахар[а]?', new_str, re.IGNORECASE) or re.search(r'сахароз[аы]', new_str, re.IGNORECASE):
             key_words.append('сахар')
+
+            match = re.search(r'сахар[а]?\s?[—-]?\s?[0-9]+[,.\s]?[0-9]+\s?[г]?', new_str, re.IGNORECASE)
+            if match:
+                product_info['sugar'] = get_from_math(match)
+
+            else:
+                match = re.search(r'сахароз[аы]\s?[—-]?\s?[0-9]+[,.\s]?[0-9]+\s?[г]?', new_str, re.IGNORECASE)
+                if match:
+                    product_info['sugar'] = get_from_math(match)
+
+        if re.search(r'хлеб', new_str, re.IGNORECASE) or re.search(r'хлеб', new_str, re.IGNORECASE):
+            product_info['product'] = Product.kBread
+        elif re.search(r'молоко', new_str, re.IGNORECASE) or \
+                re.search(r'сливки', new_str, re.IGNORECASE) or \
+                re.search(r'молочный', new_str, re.IGNORECASE):
+            product_info['product'] = Product.kMilk
+        elif re.search(r'[йи]огурт', new_str, re.IGNORECASE):
+            product_info['product'] = Product.kYogurt
+        elif re.search(r'газированный', new_str, re.IGNORECASE):
+            product_info['product'] = Product.kSoda
+        elif re.search(r'сок[a]?', new_str, re.IGNORECASE) or \
+                re.search(r'нектар', new_str, re.IGNORECASE):
+            product_info['product'] = Product.kJuice
         
-        print(product_info)
-        return key_words
+        return product_info

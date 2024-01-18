@@ -9,13 +9,14 @@ from sklearn.metrics import r2_score
 class DietPredictor:
     def __init__(self) -> None:
         self.regressor = CatBoostRegressor(iterations=500,
-                          grow_policy = 'Depthwise',
+                          grow_policy='Depthwise',
                           depth=8,
                           od_type='Iter',
                           od_wait=40,
                           loss_function=metrics.MAE(),
                           random_state=42,
                           learning_rate=0.03,
+                          l2_leaf_reg=0.5,
                           eval_metric=metrics.MAE())
         
         self.path_to_saved = 'model.dump'
@@ -82,6 +83,8 @@ class DietPredictor:
         def ho_obj(params):
             model = CatBoostRegressor(l2_leaf_reg=int(params['l2_leaf_reg']),
                 learning_rate=params['learning_rate'],
+                grow_policy = 'Depthwise',
+                depth=8,
                 iterations=500,
                 od_type='Iter',
                 od_wait=40,

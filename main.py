@@ -21,16 +21,6 @@ def main():
         predictor.train1(dataset)
         predictor.save_model()
 
-    product = {
-        'product': 'milk',
-        'protein' : 3.0,
-        'fats': 3.5,
-        'carbohydrates': 4.5,
-        'calorie_content': 55,
-        'sugar' : 0.0,
-        'expiration_date': 5
-    }
-
     person = {
         'sex': 'male',
         'age': 55,
@@ -39,22 +29,31 @@ def main():
         'disease': 'acute infectious diseases'
     }
 
+    products_dataset_path = 'dataset/'
+    text_recognizer = TextRecognizer()
+
+    img = 'milk11.jpg'
+    product = text_recognizer.extract_product_info(f'{products_dataset_path}{img}')
+    product_name = product['product']
     prediction = predictor.predict(product, person)
-    print(f'recommended daily norm - {prediction}')
+    print(f'product info {product}')
+    print(f'recommended daily norm for this {product_name} - {prediction}')
 
-    # products_dataset_path = 'dataset/'
-    # products_imgs = os.listdir(products_dataset_path)
-    # text_recognizer = TextRecognizer()
 
-    # # img = 'milk11.jpg'
-    # # text_recognizer.extract_product_info(f'{products_dataset_path}{img}')
-    # # return
+    person = {
+        'sex': 'female',
+        'age': 42,
+        'height': 165,
+        'weight': 60,
+        'disease': 'ulcer'
+    }
 
-    # for product_img in products_imgs:
-    #     if product_img.find('.jpg') > 0:
-    #         text_recognizer.extract_product_info(f'{products_dataset_path}{product_img}')
-    #         print('################################')
-    # return
+    img = 'bread12.jpg'
+    product = text_recognizer.extract_product_info(f'{products_dataset_path}{img}')
+    product_name = product['product']
+    prediction = predictor.predict(product, person)
+    print(f'product info {product}')
+    print(f'recommended daily norm for this {product_name} - {prediction}')
 
 
 if __name__ == '__main__':
