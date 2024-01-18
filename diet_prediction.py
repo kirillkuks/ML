@@ -54,17 +54,16 @@ class DietPredictor:
         y_predicted = self.regressor.predict(x_validation)
         r2 = r2_score(y_validation, y_predicted)
         print(f'r2 = {r2}')
+        print()
 
         train_pool = Pool(x_train, y_train, categotial_features_indexes)
         feature_importances = self.regressor.get_feature_importance(train_pool)
         feature_names = x_train.columns
+        print('features importances:')
         for score, name in sorted(zip(feature_importances, feature_names), reverse=True):
             print(f'{name}: {score}')
-
-        # cv_params = self.regressor.get_params()
-        # cv_data = cv(Pool(x_data, y_data, cat_features=categotial_features_indexes),
-        #     cv_params,
-        #     plot=True)
+        
+        print()
             
     def predict(self, product_info, person_info):
         x = [product_info['product'], product_info['protein'], product_info['fats'], product_info['carbohydrates'],

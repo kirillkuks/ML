@@ -1,4 +1,3 @@
-from typing import Tuple
 import pandas as pd
 import os
 
@@ -7,7 +6,7 @@ from diet_prediction import DietPredictor
 from dataset import get_dataset
 
 
-kLoadModel = True
+kLoadModel = False
 
 
 def main():
