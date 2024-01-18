@@ -1,301 +1,301 @@
-,product,protein,fats,carbohydrates,calorie_content,sugar,expiration_date,person_sex,person_age,height,weight,disease,diet_recommendation
-0,yogurt,2.9,2.5,12.0,82,8.0,21,male,53,189,94,no disease,200.0
-1,yogurt,2.9,3.5,10.5,85,7.0,14,male,82,162,66,ulcer,136.0
-2,bread,8.0,1.0,55.0,260,0.0,4,male,85,162,71,diarrhea,169.0
-3,yogurt,4.1,2.9,14.6,101,7.7,14,male,69,164,62,acute infectious diseases,20.0
-4,milk,3.0,3.2,4.7,60,0.0,90,male,33,180,70,diarrhea,0.0
-5,bread,9.0,6.5,45.1,275,0.0,3,male,97,162,68,constipation,69.0
-6,yogurt,2.8,1.9,14.6,87,0.0,28,female,57,171,54,constipation,178.0
-7,juice,0.0,0.0,12.0,50,6.0,180,male,43,178,73,acute infectious diseases,225.0
-8,milk,1.5,18.0,3.8,172,1.7,180,male,29,176,72,constipation,0.0
-9,bread,8.4,1.5,54.0,263,0.0,2,male,82,165,77,diarrhea,191.0
-10,milk,3.0,2.5,4.7,53,0.0,10,male,56,169,73,diabetes,900.0
-11,soda,0.0,0.0,4.9,20,4.0,180,male,42,168,66,ulcer,0.0
-12,milk,1.5,18.0,3.8,172,1.7,180,male,37,182,73,ulcer,0.0
-13,bread,6.5,1.0,42.1,209,0.0,3,male,82,170,70,diabetes,192.0
-14,milk,2.8,3.2,4.7,60,0.0,3,female,25,169,66,acute infectious diseases,0.0
-15,milk,3.0,2.5,4.7,53,0.0,5,female,75,160,66,diarrhea,0.0
-16,milk,2.8,3.2,4.7,60,0.0,180,female,25,147,58,ulcer,0.0
-17,juice,0.0,0.0,12.0,48,0.0,270,female,97,173,71,acute infectious diseases,175.0
-18,milk,3.1,1.5,4.7,45,0.0,3,female,92,136,57,diarrhea,0.0
-19,milk,3.0,2.5,4.7,53,0.0,5,female,88,154,59,acute infectious diseases,375.0
-20,milk,2.6,10.0,4.5,118,0.0,5,male,71,177,72,ulcer,0.0
-21,yogurt,2.9,3.5,10.5,85,7.0,14,female,29,144,68,ulcer,200.0
-22,milk,2.6,10.0,4.5,118,0.0,5,male,46,171,89,diabetes,0.0
-23,milk,3.1,1.5,4.7,45,0.0,3,male,24,218,70,diarrhea,0.0
-24,bread,8.0,3.5,49.5,226,0.0,5,female,39,155,68,constipation,180.0
-25,milk,1.5,18.0,3.8,172,1.7,180,male,91,159,91,ulcer,0.0
-26,yogurt,2.9,3.5,10.5,85,7.0,14,female,72,163,52,acute infectious diseases,0.0
-27,yogurt,4.4,3.2,7.0,74,0.0,14,female,21,193,70,diabetes,5428.0
-28,yogurt,2.8,1.5,13.2,80,7.4,14,female,96,159,62,constipation,6.0
-29,milk,3.0,3.2,4.7,60,0.0,60,female,21,142,60,diarrhea,0.0
-30,milk,1.5,18.0,3.8,172,1.7,180,male,91,194,72,diabetes,0.0
-31,juice,0.0,0.0,10.5,42,0.0,180,female,25,164,74,acute infectious diseases,175.0
-32,yogurt,2.9,3.5,12.0,91,8.0,21,female,86,156,47,ulcer,128.0
-33,bread,7.0,1.1,46.9,226,0.0,3,female,43,156,62,acute infectious diseases,80.0
-34,milk,2.8,3.2,4.7,60,0.0,3,female,36,171,82,ulcer,0.0
-35,milk,3.0,3.5,4.7,62,0.0,90,male,65,169,65,constipation,380.0
-36,milk,2.6,10.0,4.5,118,0.0,5,female,28,154,65,no disease,635.0
-37,milk,3.0,2.5,4.7,53,0.0,10,male,96,164,77,constipation,251.0
-38,milk,3.1,0.05,4.7,32,0.0,3,male,26,178,49,ulcer,581.0
-39,bread,8.4,1.5,54.0,263,0.0,2,male,83,166,71,diarrhea,174.0
-40,yogurt,3.2,1.9,4.4,50,0.0,14,male,83,172,85,constipation,143.0
-41,yogurt,3.2,1.9,4.4,50,0.0,14,male,51,191,75,diarrhea,0.0
-42,bread,7.0,0.8,52.1,253,0.0,3,female,38,145,43,constipation,156.0
-43,bread,7.0,1.1,46.9,226,0.0,3,female,66,187,71,ulcer,64.0
-44,bread,8.0,3.5,49.5,226,0.0,5,male,31,172,88,constipation,275.0
-45,soda,0.0,0.0,4.9,20,4.0,180,female,32,169,51,ulcer,0.0
-46,bread,9.0,6.5,45.1,275,0.0,3,female,59,151,58,no disease,110.0
-47,soda,0.0,0.0,7.8,31,7.0,180,female,38,167,69,diabetes,50.0
-48,bread,7.0,0.8,52.1,253,0.0,3,male,26,178,70,no disease,198.0
-49,milk,3.0,2.5,4.7,53,0.0,4,male,92,167,72,no disease,750.0
-50,soda,0.0,0.0,4.6,20,4.6,365,male,29,177,60,diabetes,50.0
-51,soda,0.0,0.0,4.6,20,0.0,270,female,70,156,79,constipation,77.0
-52,milk,3.0,3.2,4.7,60,0.0,90,female,48,157,62,diarrhea,0.0
-53,milk,3.0,3.2,4.7,60,0.0,4,female,95,187,50,no disease,978.0
-54,juice,0.0,0.0,12.0,50,6.0,180,male,71,170,74,acute infectious diseases,225.0
-55,bread,7.0,0.8,52.1,253,0.0,3,male,34,172,63,acute infectious diseases,103.0
-56,milk,2.8,3.2,9.5,78,5.0,60,male,24,173,86,no disease,686.0
-57,milk,3.1,0.05,4.7,32,0.0,3,male,82,159,74,acute infectious diseases,750.0
-58,soda,0.0,0.0,4.6,20,4.6,365,female,68,179,55,constipation,0.0
-59,yogurt,2.9,3.5,10.5,85,7.0,14,male,80,199,95,acute infectious diseases,0.0
-60,milk,2.8,3.2,9.3,77,4.8,30,female,27,167,53,ulcer,750.0
-61,soda,0.0,0.0,11.0,45,9.0,270,male,45,178,72,no disease,111.0
-62,soda,0.0,0.0,7.8,31,7.0,180,female,30,176,72,ulcer,0.0
-63,soda,0.0,0.0,7.8,31,7.0,180,male,63,178,66,no disease,117.0
-64,milk,3.0,2.5,4.7,53,0.0,4,male,76,183,51,no disease,1042.0
-65,yogurt,4.4,3.2,7.0,74,0.0,14,female,66,163,48,acute infectious diseases,0.0
-66,milk,2.8,3.2,9.3,77,4.8,30,female,55,168,56,diarrhea,0.0
-67,bread,7.0,0.8,52.1,253,0.0,3,female,99,154,57,no disease,115.0
-68,bread,6.7,1.4,35.3,131,0.0,4,male,72,186,72,diabetes,192.0
-69,milk,1.5,18.0,3.8,172,1.7,180,female,29,174,65,acute infectious diseases,0.0
-70,bread,7.3,1.2,52.1,249,0.0,3,female,18,132,74,ulcer,77.0
-71,milk,2.8,3.2,4.7,60,0.0,180,male,22,170,73,acute infectious diseases,0.0
-72,yogurt,3.2,1.9,4.4,50,0.0,14,male,21,195,74,constipation,231.0
-73,yogurt,3.0,2.5,16.4,100,10.6,21,female,78,156,53,constipation,9.0
-74,milk,2.8,3.2,4.7,60,0.0,180,male,22,182,76,diabetes,599.0
-75,milk,2.8,3.2,9.5,78,5.0,60,female,25,145,68,constipation,852.0
-76,milk,3.1,1.5,4.7,45,0.0,3,male,64,194,78,ulcer,32.0
-77,soda,0.0,0.0,4.9,20,4.0,180,male,71,180,76,no disease,109.0
-78,soda,0.0,0.0,4.6,20,0.0,270,female,27,164,51,ulcer,10.0
-79,milk,3.1,0.05,4.7,32,0.0,3,male,70,162,90,diarrhea,0.0
-80,milk,3.1,1.5,4.7,45,0.0,3,female,20,191,50,diarrhea,0.0
-81,milk,2.8,3.2,9.5,78,5.0,60,male,75,177,68,diabetes,0.0
-82,milk,3.0,3.5,4.7,62,0.0,90,male,53,213,72,diabetes,375.0
-83,juice,0.0,0.0,3.0,15,0.0,180,male,93,172,82,diabetes,2250.0
-84,bread,8.0,1.0,55.0,260,0.0,4,male,58,184,64,ulcer,100.0
-85,bread,8.0,3.5,49.5,226,0.0,5,female,45,176,80,constipation,152.0
-86,bread,8.4,1.5,54.0,263,0.0,2,male,88,188,82,diarrhea,187.0
-87,milk,3.0,3.2,4.7,60,0.0,90,female,96,168,67,no disease,721.0
-88,milk,3.0,3.2,4.7,60,0.0,4,male,49,173,67,diabetes,599.0
-89,yogurt,2.8,1.9,14.6,87,0.0,28,female,31,186,71,no disease,219.0
-90,milk,3.0,3.2,4.7,60,0.0,60,male,29,168,60,diarrhea,0.0
-91,bread,8.0,1.0,55.0,260,0.0,4,female,56,147,66,ulcer,73.0
-92,bread,8.0,3.0,53.0,270,0.0,5,female,41,179,85,diarrhea,62.0
-93,milk,2.8,3.2,9.3,77,4.8,30,female,87,159,64,diabetes,0.0
-94,milk,2.6,10.0,4.5,118,0.0,5,female,48,171,58,diabetes,0.0
-95,yogurt,3.2,1.9,4.4,50,0.0,14,male,87,170,82,diabetes,5795.0
-96,yogurt,2.9,3.5,10.5,85,7.0,14,female,58,148,62,diabetes,67.0
-97,yogurt,2.9,3.5,10.5,85,7.0,14,male,32,186,76,diarrhea,0.0
-98,milk,2.8,3.2,4.7,60,0.0,180,female,43,160,59,diabetes,599.0
-99,yogurt,4.1,2.9,14.6,101,7.7,14,male,98,193,77,diabetes,52.0
-100,milk,3.0,3.5,4.7,62,0.0,90,male,96,158,67,acute infectious diseases,0.0
-101,juice,0.0,0.0,12.0,50,6.0,180,female,63,186,74,diabetes,175.0
-102,milk,2.8,3.2,9.3,77,4.8,30,male,79,150,87,diarrhea,0.0
-103,milk,2.8,3.2,9.5,78,5.0,60,female,98,135,56,diarrhea,0.0
-104,bread,6.7,1.4,35.3,131,0.0,4,female,63,170,54,acute infectious diseases,103.0
-105,milk,2.8,3.2,9.3,77,4.8,30,female,21,165,76,ulcer,750.0
-106,milk,3.0,2.5,4.7,53,0.0,5,male,78,178,81,acute infectious diseases,375.0
-107,soda,0.0,0.0,4.9,20,4.0,180,male,18,165,70,diabetes,50.0
-108,yogurt,3.2,1.9,4.4,50,0.0,14,male,73,138,58,constipation,196.0
-109,bread,9.0,6.5,45.1,275,0.0,3,female,66,157,63,diarrhea,45.0
-110,juice,0.0,0.0,12.0,50,6.0,180,female,46,172,41,acute infectious diseases,175.0
-111,yogurt,2.9,3.5,10.5,85,7.0,14,female,29,136,60,diabetes,67.0
-112,bread,8.0,3.5,49.5,226,0.0,5,female,29,145,56,diarrhea,53.0
-113,milk,3.0,3.2,4.7,60,0.0,60,female,70,157,78,diarrhea,0.0
-114,yogurt,4.1,2.9,14.6,101,7.7,14,male,41,149,91,no disease,122.0
-115,juice,0.0,0.0,10.5,42,0.0,180,male,78,179,82,diabetes,2250.0
-116,milk,2.8,3.2,9.5,78,5.0,60,female,30,167,57,no disease,785.0
-117,yogurt,4.4,3.2,7.0,74,0.0,14,male,53,193,80,diarrhea,0.0
-118,milk,1.5,18.0,3.8,172,1.7,180,male,82,186,60,constipation,0.0
-119,bread,7.0,0.8,52.1,253,0.0,3,male,60,189,97,diarrhea,272.0
-120,juice,0.0,0.0,3.0,15,0.0,180,female,38,148,64,ulcer,17.0
-121,bread,8.0,1.7,46.8,230,0.0,4,female,27,177,71,diarrhea,59.0
-122,yogurt,3.2,1.9,4.4,50,0.0,14,female,50,161,54,diarrhea,0.0
-123,milk,2.8,3.2,9.3,77,4.8,30,female,59,138,55,diarrhea,0.0
-124,milk,3.0,3.2,4.7,60,0.0,90,male,39,140,89,constipation,866.0
-125,milk,2.8,3.2,4.7,60,0.0,180,female,45,144,73,no disease,507.0
-126,bread,9.0,6.5,45.1,275,0.0,3,female,21,166,60,ulcer,69.0
-127,milk,3.1,0.05,4.7,32,0.0,3,female,27,177,50,diabetes,900.0
-128,milk,2.8,3.2,9.3,77,4.8,30,male,18,201,69,no disease,1042.0
-129,yogurt,3.0,2.5,16.4,100,10.6,21,male,38,159,54,no disease,221.0
-130,bread,8.0,1.7,46.8,230,0.0,4,female,84,171,57,constipation,62.0
-131,bread,8.0,3.5,49.5,226,0.0,5,female,44,167,79,ulcer,74.0
-132,yogurt,2.9,3.5,12.0,91,8.0,21,female,77,187,48,acute infectious diseases,0.0
-133,milk,2.8,3.2,4.7,60,0.0,3,male,28,158,71,ulcer,0.0
-134,bread,8.4,1.5,54.0,263,0.0,2,male,18,201,66,ulcer,107.0
-135,bread,8.0,1.0,55.0,260,0.0,4,male,90,158,76,diabetes,192.0
-136,milk,3.1,0.05,4.7,32,0.0,3,male,42,148,76,diabetes,900.0
-137,soda,0.0,0.0,4.9,20,4.0,180,female,89,149,72,constipation,0.0
-138,soda,0.0,0.0,4.6,20,0.0,270,male,77,173,87,diabetes,500.0
-139,bread,7.0,0.8,52.1,253,0.0,3,male,19,178,80,acute infectious diseases,103.0
-140,bread,9.0,6.5,45.1,275,0.0,3,male,50,179,86,acute infectious diseases,106.0
-141,milk,3.0,3.5,4.7,62,0.0,90,female,88,144,83,no disease,435.0
-142,milk,2.8,3.2,9.5,78,5.0,60,male,49,193,101,diabetes,0.0
-143,bread,7.0,0.8,52.1,253,0.0,3,male,26,163,83,no disease,147.0
-144,milk,3.0,3.5,4.7,62,0.0,90,female,78,190,61,ulcer,0.0
-145,soda,0.0,0.0,4.9,20,4.0,180,male,50,222,66,constipation,0.0
-146,soda,0.0,0.0,4.9,20,4.0,180,male,94,188,74,diarrhea,0.0
-147,juice,0.0,0.0,10.5,42,0.0,180,female,31,132,55,acute infectious diseases,175.0
-148,bread,9.0,6.5,45.1,275,0.0,3,female,79,151,53,no disease,116.0
-149,yogurt,2.9,2.5,12.0,82,8.0,21,male,56,179,85,constipation,16.0
-150,milk,2.8,3.2,9.3,77,4.8,30,male,58,174,77,ulcer,690.0
-151,bread,8.0,3.0,53.0,270,0.0,5,male,91,158,86,no disease,132.0
-152,milk,3.0,2.5,4.7,53,0.0,5,female,42,124,79,diabetes,900.0
-153,milk,3.1,1.5,4.7,45,0.0,3,male,31,170,64,constipation,705.0
-154,milk,2.8,3.2,9.3,77,4.8,30,male,42,180,73,diarrhea,0.0
-155,juice,0.0,0.0,12.0,48,0.0,270,female,95,158,74,ulcer,9.0
-156,milk,2.8,3.2,4.7,60,0.0,180,male,32,183,81,diarrhea,0.0
-157,juice,0.0,0.0,10.5,42,0.0,180,male,89,182,61,diarrhea,-36.0
-158,milk,2.6,10.0,4.5,118,0.0,5,female,95,153,63,no disease,642.0
-159,yogurt,2.8,1.5,13.2,80,7.4,14,male,61,176,74,diarrhea,0.0
-160,juice,0.0,0.0,10.5,42,0.0,180,female,96,170,73,ulcer,9.0
-161,soda,0.0,0.0,4.6,20,4.6,365,female,27,175,57,no disease,112.0
-162,milk,3.0,3.2,4.7,60,0.0,60,female,61,118,58,constipation,688.0
-163,juice,0.0,0.0,11.0,44,0.0,365,female,30,144,69,no disease,125.0
-164,yogurt,2.9,3.5,10.5,85,7.0,14,male,69,181,58,acute infectious diseases,0.0
-165,bread,8.0,1.0,55.0,260,0.0,4,female,70,141,64,ulcer,62.0
-166,yogurt,2.9,3.5,10.5,85,7.0,14,female,28,160,59,ulcer,200.0
-167,soda,0.0,0.0,4.6,20,4.6,365,female,77,155,76,diarrhea,0.0
-168,bread,6.7,1.4,35.3,131,0.0,4,male,46,186,71,constipation,175.0
-169,milk,1.5,18.0,3.8,172,1.7,180,female,91,171,65,acute infectious diseases,0.0
-170,milk,3.0,2.5,4.7,53,0.0,10,female,95,181,63,diarrhea,0.0
-171,juice,0.0,0.0,11.0,44,0.0,365,male,59,187,75,no disease,265.0
-172,milk,1.5,18.0,3.8,172,1.7,180,female,54,167,55,ulcer,0.0
-173,yogurt,3.2,1.9,4.4,50,0.0,14,male,19,196,80,constipation,241.0
-174,juice,0.0,0.0,12.0,50,6.0,180,female,72,157,65,ulcer,0.0
-175,yogurt,2.8,1.5,13.2,80,7.4,14,male,92,184,96,constipation,7.0
-176,soda,0.0,0.0,4.9,20,4.0,180,male,38,190,63,diabetes,50.0
-177,soda,0.0,0.0,2.5,90,2.5,365,male,19,174,65,diarrhea,3.0
-178,milk,3.0,2.5,4.7,53,0.0,4,male,88,189,68,constipation,240.0
-179,yogurt,2.9,2.5,12.0,82,8.0,21,female,38,170,71,no disease,188.0
-180,juice,0.0,0.0,10.5,42,0.0,180,male,80,211,88,acute infectious diseases,225.0
-181,bread,7.3,1.2,52.1,249,0.0,3,male,41,181,76,constipation,204.0
-182,milk,2.8,3.2,9.5,78,5.0,60,male,88,174,85,constipation,286.0
-183,yogurt,3.0,2.5,16.4,100,10.6,21,male,29,158,77,acute infectious diseases,100.0
-184,yogurt,3.0,2.5,16.4,100,10.6,21,female,30,204,67,diarrhea,0.0
-185,milk,1.5,18.0,3.8,172,1.7,180,female,29,162,60,acute infectious diseases,0.0
-186,milk,2.8,3.2,4.7,60,0.0,3,female,86,157,67,constipation,342.0
-187,milk,3.0,3.5,4.7,62,0.0,90,male,71,193,59,no disease,1057.0
-188,milk,1.5,18.0,3.8,172,1.7,180,male,44,184,69,diarrhea,0.0
-189,juice,0.0,0.0,3.0,15,0.0,180,female,82,150,48,acute infectious diseases,175.0
-190,yogurt,2.9,3.5,12.0,91,8.0,21,male,83,171,73,diarrhea,0.0
-191,bread,8.0,3.5,49.5,226,0.0,5,female,30,147,57,diabetes,137.0
-192,bread,6.5,1.0,42.1,209,0.0,3,female,81,157,44,ulcer,53.0
-193,bread,7.0,0.8,52.1,253,0.0,3,female,88,158,68,acute infectious diseases,73.0
-194,milk,3.0,3.2,4.7,60,0.0,60,female,78,162,62,constipation,330.0
-195,bread,8.4,1.5,54.0,263,0.0,2,female,48,153,61,constipation,152.0
-196,yogurt,3.0,2.5,16.4,100,10.6,21,female,32,177,60,constipation,17.0
-197,yogurt,2.9,2.5,12.0,82,8.0,21,female,71,163,61,diarrhea,0.0
-198,milk,3.0,3.5,4.7,62,0.0,90,male,33,169,77,constipation,658.0
-199,bread,8.0,1.0,55.0,260,0.0,4,male,63,202,79,acute infectious diseases,97.0
-200,yogurt,2.8,1.9,14.6,87,0.0,28,male,57,160,75,constipation,245.0
-201,milk,3.0,2.5,4.7,53,0.0,10,male,49,181,88,constipation,667.0
-202,milk,3.0,2.5,4.7,53,0.0,4,male,23,154,78,ulcer,0.0
-203,bread,8.0,1.0,55.0,260,0.0,4,female,91,177,64,diarrhea,99.0
-204,bread,7.0,0.8,52.1,253,0.0,3,female,66,148,47,constipation,104.0
-205,juice,0.0,0.0,3.0,15,0.0,180,female,52,160,68,constipation,71.0
-206,bread,8.0,1.7,46.8,230,0.0,4,female,22,166,53,diarrhea,43.0
-207,milk,3.0,2.5,4.7,53,0.0,5,male,94,154,93,ulcer,0.0
-208,yogurt,3.0,2.5,16.4,100,10.6,21,female,87,181,57,acute infectious diseases,100.0
-209,yogurt,4.4,3.2,7.0,74,0.0,14,female,50,153,56,constipation,238.0
-210,milk,3.1,1.5,4.7,45,0.0,3,female,98,163,58,diarrhea,0.0
-211,milk,3.1,0.05,4.7,32,0.0,3,female,44,185,49,constipation,493.0
-212,yogurt,2.9,3.5,10.5,85,7.0,14,female,51,163,66,diarrhea,0.0
-213,milk,1.5,18.0,3.8,172,1.7,180,female,44,184,69,diarrhea,0.0
-214,bread,6.5,1.0,42.1,209,0.0,3,male,44,174,57,diarrhea,262.0
-215,juice,0.0,0.0,10.5,42,0.0,180,male,49,168,75,constipation,0.0
-216,yogurt,2.8,1.5,13.2,80,7.4,14,male,94,183,59,diabetes,35.0
-217,milk,3.0,3.2,4.7,60,0.0,90,female,93,162,67,diabetes,599.0
-218,soda,0.0,0.0,4.6,20,4.6,365,male,20,142,95,acute infectious diseases,100.0
-219,milk,3.0,2.5,4.7,53,0.0,10,female,82,161,41,constipation,282.0
-220,yogurt,2.9,2.5,12.0,82,8.0,21,female,31,130,59,acute infectious diseases,100.0
-221,soda,0.0,0.0,7.8,31,7.0,180,male,88,160,74,constipation,0.0
-222,milk,3.1,0.05,4.7,32,0.0,3,female,84,158,86,diarrhea,0.0
-223,yogurt,2.8,1.9,14.6,87,0.0,28,female,48,144,53,diarrhea,0.0
-224,soda,0.0,0.0,4.6,20,4.6,365,female,42,158,58,no disease,95.0
-225,bread,6.7,1.4,35.3,131,0.0,4,male,31,174,90,acute infectious diseases,145.0
-226,juice,0.0,0.0,11.0,44,0.0,365,female,60,160,54,constipation,0.0
-227,bread,8.0,3.0,53.0,270,0.0,5,female,95,168,43,diarrhea,27.0
-228,bread,6.7,1.4,35.3,131,0.0,4,male,89,163,70,diabetes,192.0
-229,juice,0.0,0.0,12.0,50,6.0,180,male,99,179,82,no disease,229.0
-230,yogurt,2.8,1.9,14.6,87,0.0,28,male,21,155,71,no disease,176.0
-231,soda,0.0,0.0,2.5,90,2.5,365,female,61,155,64,no disease,86.0
-232,yogurt,2.9,2.5,12.0,82,8.0,21,female,97,156,58,constipation,5.0
-233,yogurt,2.8,1.9,14.6,87,0.0,28,female,89,139,53,acute infectious diseases,200.0
-234,yogurt,4.1,2.9,14.6,101,7.7,14,male,28,183,73,acute infectious diseases,20.0
-235,soda,0.0,0.0,11.0,45,9.0,270,male,75,170,76,diarrhea,0.0
-236,yogurt,2.9,3.5,10.5,85,7.0,14,female,25,167,71,ulcer,200.0
-237,bread,7.3,1.2,52.1,249,0.0,3,male,20,146,56,ulcer,108.0
-238,bread,6.5,1.0,42.1,209,0.0,3,male,94,192,78,no disease,210.0
-239,milk,3.0,2.5,4.7,53,0.0,5,female,34,165,55,diabetes,900.0
-240,soda,0.0,0.0,11.0,45,9.0,270,female,83,138,49,diabetes,50.0
-241,milk,2.8,3.2,9.3,77,4.8,30,female,36,176,61,diarrhea,0.0
-242,soda,0.0,0.0,4.6,20,0.0,270,male,32,177,84,constipation,107.0
-243,bread,7.0,0.8,52.1,253,0.0,3,female,77,157,71,constipation,98.0
-244,milk,2.6,10.0,4.5,118,0.0,5,female,60,155,91,diabetes,0.0
-245,milk,3.0,2.5,4.7,53,0.0,4,female,52,141,47,ulcer,0.0
-246,bread,8.0,1.0,55.0,260,0.0,4,female,98,157,67,diarrhea,92.0
-247,yogurt,3.2,1.9,4.4,50,0.0,14,male,71,197,76,acute infectious diseases,200.0
-248,soda,0.0,0.0,7.8,31,7.0,180,male,46,189,82,diabetes,50.0
-249,bread,8.0,1.7,46.8,230,0.0,4,female,84,142,75,diabetes,137.0
-250,yogurt,4.1,2.9,14.6,101,7.7,14,male,28,174,97,constipation,25.0
-251,juice,0.0,0.0,12.0,50,6.0,180,female,27,156,44,no disease,186.0
-252,soda,0.0,0.0,11.0,45,9.0,270,male,90,186,83,acute infectious diseases,87.0
-253,milk,3.0,2.5,4.7,53,0.0,10,female,30,152,62,constipation,822.0
-254,yogurt,4.4,3.2,7.0,74,0.0,14,male,23,179,86,diarrhea,0.0
-255,soda,0.0,0.0,4.6,20,4.6,365,female,85,181,58,constipation,0.0
-256,bread,7.0,1.1,46.9,226,0.0,3,female,37,191,60,acute infectious diseases,80.0
-257,yogurt,2.9,3.5,10.5,85,7.0,14,female,42,136,59,diarrhea,0.0
-258,yogurt,2.9,3.5,12.0,91,8.0,21,female,70,142,89,no disease,100.0
-259,soda,0.0,0.0,4.6,20,4.6,365,male,82,192,76,diarrhea,0.0
-260,bread,7.0,0.8,52.1,253,0.0,3,female,51,176,73,diabetes,137.0
-261,yogurt,2.9,3.5,12.0,91,8.0,21,female,83,148,46,no disease,194.0
-262,juice,0.0,0.0,11.0,44,0.0,365,female,50,182,64,constipation,0.0
-263,yogurt,2.8,1.5,13.2,80,7.4,14,male,42,151,82,constipation,26.0
-264,yogurt,4.4,3.2,7.0,74,0.0,14,female,86,151,54,acute infectious diseases,0.0
-265,bread,7.3,1.2,52.1,249,0.0,3,female,92,149,73,ulcer,45.0
-266,juice,0.0,0.0,10.5,42,0.0,180,female,97,172,77,constipation,0.0
-267,bread,8.0,3.5,49.5,226,0.0,5,male,81,153,87,diarrhea,70.0
-268,yogurt,4.4,3.2,7.0,74,0.0,14,male,99,192,76,ulcer,0.0
-269,bread,9.0,6.5,45.1,275,0.0,3,female,50,126,52,acute infectious diseases,75.0
-270,yogurt,3.0,2.5,16.4,100,10.6,21,female,57,159,69,no disease,171.0
-271,milk,3.0,3.2,4.7,60,0.0,60,female,51,185,72,no disease,807.0
-272,juice,0.0,0.0,12.0,50,6.0,180,female,56,157,48,constipation,0.0
-273,juice,0.0,0.0,10.5,42,0.0,180,male,92,179,77,acute infectious diseases,225.0
-274,soda,0.0,0.0,4.9,20,4.0,180,female,95,205,79,diarrhea,0.0
-275,yogurt,2.9,3.5,10.5,85,7.0,14,female,31,173,50,diabetes,67.0
-276,juice,0.0,0.0,3.0,15,0.0,180,male,87,180,64,constipation,36.0
-277,milk,3.0,3.5,4.7,62,0.0,90,male,80,179,64,ulcer,0.0
-278,milk,3.0,3.2,4.7,60,0.0,60,female,89,139,56,diabetes,599.0
-279,milk,3.1,1.5,4.7,45,0.0,3,female,27,162,63,constipation,755.0
-280,milk,3.0,3.2,4.7,60,0.0,90,female,82,181,56,no disease,892.0
-281,yogurt,2.9,3.5,10.5,85,7.0,14,male,33,148,67,acute infectious diseases,0.0
-282,bread,7.0,0.8,52.1,253,0.0,3,male,46,201,63,diabetes,192.0
-283,yogurt,3.0,2.5,16.4,100,10.6,21,female,89,151,62,constipation,8.0
-284,milk,1.5,18.0,3.8,172,1.7,180,male,42,150,65,acute infectious diseases,0.0
-285,milk,2.6,10.0,4.5,118,0.0,5,male,20,159,80,constipation,0.0
-286,yogurt,2.8,1.5,13.2,80,7.4,14,female,46,165,63,no disease,194.0
-287,bread,8.0,1.7,46.8,230,0.0,4,female,79,141,67,constipation,109.0
-288,yogurt,2.9,2.5,12.0,82,8.0,21,male,81,148,72,constipation,12.0
-289,soda,0.0,0.0,2.5,90,2.5,365,male,70,178,55,acute infectious diseases,100.0
-290,milk,3.1,1.5,4.7,45,0.0,3,male,34,166,97,no disease,544.0
-291,bread,6.5,1.0,42.1,209,0.0,3,female,97,153,67,no disease,102.0
-292,bread,8.0,3.0,53.0,270,0.0,5,female,25,152,42,ulcer,75.0
-293,yogurt,2.9,3.5,12.0,91,8.0,21,female,85,163,61,diabetes,58.0
-294,soda,0.0,0.0,4.6,20,4.6,365,male,60,167,65,acute infectious diseases,100.0
-295,yogurt,2.8,1.9,14.6,87,0.0,28,female,83,156,47,constipation,114.0
-296,juice,0.0,0.0,3.0,15,0.0,180,female,74,153,58,no disease,158.0
-297,juice,0.0,0.0,12.0,50,6.0,180,female,74,152,67,no disease,141.0
-298,milk,3.0,3.2,4.7,60,0.0,90,male,68,159,74,diabetes,599.0
-299,bread,8.0,3.0,53.0,270,0.0,5,male,73,159,76,ulcer,81.0
+product,protein,fats,carbohydrates,calorie_content,sugar,expiration_date,person_sex,person_age,height,weight,disease,diet_recommendation
+yogurt,2.9,2.5,12.0,82,8.0,21,male,53,189,94,no disease,200.0
+yogurt,2.9,3.5,10.5,85,7.0,14,male,82,162,66,ulcer,136.0
+bread,8.0,1.0,55.0,260,0.0,4,male,85,162,71,diarrhea,169.0
+yogurt,4.1,2.9,14.6,101,7.7,14,male,69,164,62,acute infectious diseases,20.0
+milk,3.0,3.2,4.7,60,0.0,90,male,33,180,70,diarrhea,0.0
+bread,9.0,6.5,45.1,275,0.0,3,male,97,162,68,constipation,69.0
+yogurt,2.8,1.9,14.6,87,0.0,28,female,57,171,54,constipation,178.0
+juice,0.0,0.0,12.0,50,6.0,180,male,43,178,73,acute infectious diseases,225.0
+milk,1.5,18.0,3.8,172,1.7,180,male,29,176,72,constipation,0.0
+bread,8.4,1.5,54.0,263,0.0,2,male,82,165,77,diarrhea,191.0
+milk,3.0,2.5,4.7,53,0.0,10,male,56,169,73,diabetes,900.0
+soda,0.0,0.0,4.9,20,4.0,180,male,42,168,66,ulcer,0.0
+milk,1.5,18.0,3.8,172,1.7,180,male,37,182,73,ulcer,0.0
+bread,6.5,1.0,42.1,209,0.0,3,male,82,170,70,diabetes,192.0
+milk,2.8,3.2,4.7,60,0.0,3,female,25,169,66,acute infectious diseases,0.0
+milk,3.0,2.5,4.7,53,0.0,5,female,75,160,66,diarrhea,0.0
+milk,2.8,3.2,4.7,60,0.0,180,female,25,147,58,ulcer,0.0
+juice,0.0,0.0,12.0,48,0.0,270,female,97,173,71,acute infectious diseases,175.0
+milk,3.1,1.5,4.7,45,0.0,3,female,92,136,57,diarrhea,0.0
+milk,3.0,2.5,4.7,53,0.0,5,female,88,154,59,acute infectious diseases,375.0
+milk,2.6,10.0,4.5,118,0.0,5,male,71,177,72,ulcer,0.0
+yogurt,2.9,3.5,10.5,85,7.0,14,female,29,144,68,ulcer,200.0
+milk,2.6,10.0,4.5,118,0.0,5,male,46,171,89,diabetes,0.0
+milk,3.1,1.5,4.7,45,0.0,3,male,24,218,70,diarrhea,0.0
+bread,8.0,3.5,49.5,226,0.0,5,female,39,155,68,constipation,180.0
+milk,1.5,18.0,3.8,172,1.7,180,male,91,159,91,ulcer,0.0
+yogurt,2.9,3.5,10.5,85,7.0,14,female,72,163,52,acute infectious diseases,0.0
+yogurt,4.4,3.2,7.0,74,0.0,14,female,21,193,70,diabetes,5428.0
+yogurt,2.8,1.5,13.2,80,7.4,14,female,96,159,62,constipation,6.0
+milk,3.0,3.2,4.7,60,0.0,60,female,21,142,60,diarrhea,0.0
+milk,1.5,18.0,3.8,172,1.7,180,male,91,194,72,diabetes,0.0
+juice,0.0,0.0,10.5,42,0.0,180,female,25,164,74,acute infectious diseases,175.0
+yogurt,2.9,3.5,12.0,91,8.0,21,female,86,156,47,ulcer,128.0
+bread,7.0,1.1,46.9,226,0.0,3,female,43,156,62,acute infectious diseases,80.0
+milk,2.8,3.2,4.7,60,0.0,3,female,36,171,82,ulcer,0.0
+milk,3.0,3.5,4.7,62,0.0,90,male,65,169,65,constipation,380.0
+milk,2.6,10.0,4.5,118,0.0,5,female,28,154,65,no disease,635.0
+milk,3.0,2.5,4.7,53,0.0,10,male,96,164,77,constipation,251.0
+milk,3.1,0.05,4.7,32,0.0,3,male,26,178,49,ulcer,581.0
+bread,8.4,1.5,54.0,263,0.0,2,male,83,166,71,diarrhea,174.0
+yogurt,3.2,1.9,4.4,50,0.0,14,male,83,172,85,constipation,143.0
+yogurt,3.2,1.9,4.4,50,0.0,14,male,51,191,75,diarrhea,0.0
+bread,7.0,0.8,52.1,253,0.0,3,female,38,145,43,constipation,156.0
+bread,7.0,1.1,46.9,226,0.0,3,female,66,187,71,ulcer,64.0
+bread,8.0,3.5,49.5,226,0.0,5,male,31,172,88,constipation,275.0
+soda,0.0,0.0,4.9,20,4.0,180,female,32,169,51,ulcer,0.0
+bread,9.0,6.5,45.1,275,0.0,3,female,59,151,58,no disease,110.0
+soda,0.0,0.0,7.8,31,7.0,180,female,38,167,69,diabetes,50.0
+bread,7.0,0.8,52.1,253,0.0,3,male,26,178,70,no disease,198.0
+milk,3.0,2.5,4.7,53,0.0,4,male,92,167,72,no disease,750.0
+soda,0.0,0.0,4.6,20,4.6,365,male,29,177,60,diabetes,50.0
+soda,0.0,0.0,4.6,20,0.0,270,female,70,156,79,constipation,77.0
+milk,3.0,3.2,4.7,60,0.0,90,female,48,157,62,diarrhea,0.0
+milk,3.0,3.2,4.7,60,0.0,4,female,95,187,50,no disease,978.0
+juice,0.0,0.0,12.0,50,6.0,180,male,71,170,74,acute infectious diseases,225.0
+bread,7.0,0.8,52.1,253,0.0,3,male,34,172,63,acute infectious diseases,103.0
+milk,2.8,3.2,9.5,78,5.0,60,male,24,173,86,no disease,686.0
+milk,3.1,0.05,4.7,32,0.0,3,male,82,159,74,acute infectious diseases,750.0
+soda,0.0,0.0,4.6,20,4.6,365,female,68,179,55,constipation,0.0
+yogurt,2.9,3.5,10.5,85,7.0,14,male,80,199,95,acute infectious diseases,0.0
+milk,2.8,3.2,9.3,77,4.8,30,female,27,167,53,ulcer,750.0
+soda,0.0,0.0,11.0,45,9.0,270,male,45,178,72,no disease,111.0
+soda,0.0,0.0,7.8,31,7.0,180,female,30,176,72,ulcer,0.0
+soda,0.0,0.0,7.8,31,7.0,180,male,63,178,66,no disease,117.0
+milk,3.0,2.5,4.7,53,0.0,4,male,76,183,51,no disease,1042.0
+yogurt,4.4,3.2,7.0,74,0.0,14,female,66,163,48,acute infectious diseases,0.0
+milk,2.8,3.2,9.3,77,4.8,30,female,55,168,56,diarrhea,0.0
+bread,7.0,0.8,52.1,253,0.0,3,female,99,154,57,no disease,115.0
+bread,6.7,1.4,35.3,131,0.0,4,male,72,186,72,diabetes,192.0
+milk,1.5,18.0,3.8,172,1.7,180,female,29,174,65,acute infectious diseases,0.0
+bread,7.3,1.2,52.1,249,0.0,3,female,18,132,74,ulcer,77.0
+milk,2.8,3.2,4.7,60,0.0,180,male,22,170,73,acute infectious diseases,0.0
+yogurt,3.2,1.9,4.4,50,0.0,14,male,21,195,74,constipation,231.0
+yogurt,3.0,2.5,16.4,100,10.6,21,female,78,156,53,constipation,9.0
+milk,2.8,3.2,4.7,60,0.0,180,male,22,182,76,diabetes,599.0
+milk,2.8,3.2,9.5,78,5.0,60,female,25,145,68,constipation,852.0
+milk,3.1,1.5,4.7,45,0.0,3,male,64,194,78,ulcer,32.0
+soda,0.0,0.0,4.9,20,4.0,180,male,71,180,76,no disease,109.0
+soda,0.0,0.0,4.6,20,0.0,270,female,27,164,51,ulcer,10.0
+milk,3.1,0.05,4.7,32,0.0,3,male,70,162,90,diarrhea,0.0
+milk,3.1,1.5,4.7,45,0.0,3,female,20,191,50,diarrhea,0.0
+milk,2.8,3.2,9.5,78,5.0,60,male,75,177,68,diabetes,0.0
+milk,3.0,3.5,4.7,62,0.0,90,male,53,213,72,diabetes,375.0
+juice,0.0,0.0,3.0,15,0.0,180,male,93,172,82,diabetes,2250.0
+bread,8.0,1.0,55.0,260,0.0,4,male,58,184,64,ulcer,100.0
+bread,8.0,3.5,49.5,226,0.0,5,female,45,176,80,constipation,152.0
+bread,8.4,1.5,54.0,263,0.0,2,male,88,188,82,diarrhea,187.0
+milk,3.0,3.2,4.7,60,0.0,90,female,96,168,67,no disease,721.0
+milk,3.0,3.2,4.7,60,0.0,4,male,49,173,67,diabetes,599.0
+yogurt,2.8,1.9,14.6,87,0.0,28,female,31,186,71,no disease,219.0
+milk,3.0,3.2,4.7,60,0.0,60,male,29,168,60,diarrhea,0.0
+bread,8.0,1.0,55.0,260,0.0,4,female,56,147,66,ulcer,73.0
+bread,8.0,3.0,53.0,270,0.0,5,female,41,179,85,diarrhea,62.0
+milk,2.8,3.2,9.3,77,4.8,30,female,87,159,64,diabetes,0.0
+milk,2.6,10.0,4.5,118,0.0,5,female,48,171,58,diabetes,0.0
+yogurt,3.2,1.9,4.4,50,0.0,14,male,87,170,82,diabetes,5795.0
+yogurt,2.9,3.5,10.5,85,7.0,14,female,58,148,62,diabetes,67.0
+yogurt,2.9,3.5,10.5,85,7.0,14,male,32,186,76,diarrhea,0.0
+milk,2.8,3.2,4.7,60,0.0,180,female,43,160,59,diabetes,599.0
+yogurt,4.1,2.9,14.6,101,7.7,14,male,98,193,77,diabetes,52.0
+milk,3.0,3.5,4.7,62,0.0,90,male,96,158,67,acute infectious diseases,0.0
+juice,0.0,0.0,12.0,50,6.0,180,female,63,186,74,diabetes,175.0
+milk,2.8,3.2,9.3,77,4.8,30,male,79,150,87,diarrhea,0.0
+milk,2.8,3.2,9.5,78,5.0,60,female,98,135,56,diarrhea,0.0
+bread,6.7,1.4,35.3,131,0.0,4,female,63,170,54,acute infectious diseases,103.0
+milk,2.8,3.2,9.3,77,4.8,30,female,21,165,76,ulcer,750.0
+milk,3.0,2.5,4.7,53,0.0,5,male,78,178,81,acute infectious diseases,375.0
+soda,0.0,0.0,4.9,20,4.0,180,male,18,165,70,diabetes,50.0
+yogurt,3.2,1.9,4.4,50,0.0,14,male,73,138,58,constipation,196.0
+bread,9.0,6.5,45.1,275,0.0,3,female,66,157,63,diarrhea,45.0
+juice,0.0,0.0,12.0,50,6.0,180,female,46,172,41,acute infectious diseases,175.0
+yogurt,2.9,3.5,10.5,85,7.0,14,female,29,136,60,diabetes,67.0
+bread,8.0,3.5,49.5,226,0.0,5,female,29,145,56,diarrhea,53.0
+milk,3.0,3.2,4.7,60,0.0,60,female,70,157,78,diarrhea,0.0
+yogurt,4.1,2.9,14.6,101,7.7,14,male,41,149,91,no disease,122.0
+juice,0.0,0.0,10.5,42,0.0,180,male,78,179,82,diabetes,2250.0
+milk,2.8,3.2,9.5,78,5.0,60,female,30,167,57,no disease,785.0
+yogurt,4.4,3.2,7.0,74,0.0,14,male,53,193,80,diarrhea,0.0
+milk,1.5,18.0,3.8,172,1.7,180,male,82,186,60,constipation,0.0
+bread,7.0,0.8,52.1,253,0.0,3,male,60,189,97,diarrhea,272.0
+juice,0.0,0.0,3.0,15,0.0,180,female,38,148,64,ulcer,17.0
+bread,8.0,1.7,46.8,230,0.0,4,female,27,177,71,diarrhea,59.0
+yogurt,3.2,1.9,4.4,50,0.0,14,female,50,161,54,diarrhea,0.0
+milk,2.8,3.2,9.3,77,4.8,30,female,59,138,55,diarrhea,0.0
+milk,3.0,3.2,4.7,60,0.0,90,male,39,140,89,constipation,866.0
+milk,2.8,3.2,4.7,60,0.0,180,female,45,144,73,no disease,507.0
+bread,9.0,6.5,45.1,275,0.0,3,female,21,166,60,ulcer,69.0
+milk,3.1,0.05,4.7,32,0.0,3,female,27,177,50,diabetes,900.0
+milk,2.8,3.2,9.3,77,4.8,30,male,18,201,69,no disease,1042.0
+yogurt,3.0,2.5,16.4,100,10.6,21,male,38,159,54,no disease,221.0
+bread,8.0,1.7,46.8,230,0.0,4,female,84,171,57,constipation,62.0
+bread,8.0,3.5,49.5,226,0.0,5,female,44,167,79,ulcer,74.0
+yogurt,2.9,3.5,12.0,91,8.0,21,female,77,187,48,acute infectious diseases,0.0
+milk,2.8,3.2,4.7,60,0.0,3,male,28,158,71,ulcer,0.0
+bread,8.4,1.5,54.0,263,0.0,2,male,18,201,66,ulcer,107.0
+bread,8.0,1.0,55.0,260,0.0,4,male,90,158,76,diabetes,192.0
+milk,3.1,0.05,4.7,32,0.0,3,male,42,148,76,diabetes,900.0
+soda,0.0,0.0,4.9,20,4.0,180,female,89,149,72,constipation,0.0
+soda,0.0,0.0,4.6,20,0.0,270,male,77,173,87,diabetes,500.0
+bread,7.0,0.8,52.1,253,0.0,3,male,19,178,80,acute infectious diseases,103.0
+bread,9.0,6.5,45.1,275,0.0,3,male,50,179,86,acute infectious diseases,106.0
+milk,3.0,3.5,4.7,62,0.0,90,female,88,144,83,no disease,435.0
+milk,2.8,3.2,9.5,78,5.0,60,male,49,193,101,diabetes,0.0
+bread,7.0,0.8,52.1,253,0.0,3,male,26,163,83,no disease,147.0
+milk,3.0,3.5,4.7,62,0.0,90,female,78,190,61,ulcer,0.0
+soda,0.0,0.0,4.9,20,4.0,180,male,50,222,66,constipation,0.0
+soda,0.0,0.0,4.9,20,4.0,180,male,94,188,74,diarrhea,0.0
+juice,0.0,0.0,10.5,42,0.0,180,female,31,132,55,acute infectious diseases,175.0
+bread,9.0,6.5,45.1,275,0.0,3,female,79,151,53,no disease,116.0
+yogurt,2.9,2.5,12.0,82,8.0,21,male,56,179,85,constipation,16.0
+milk,2.8,3.2,9.3,77,4.8,30,male,58,174,77,ulcer,690.0
+bread,8.0,3.0,53.0,270,0.0,5,male,91,158,86,no disease,132.0
+milk,3.0,2.5,4.7,53,0.0,5,female,42,124,79,diabetes,900.0
+milk,3.1,1.5,4.7,45,0.0,3,male,31,170,64,constipation,705.0
+milk,2.8,3.2,9.3,77,4.8,30,male,42,180,73,diarrhea,0.0
+juice,0.0,0.0,12.0,48,0.0,270,female,95,158,74,ulcer,9.0
+milk,2.8,3.2,4.7,60,0.0,180,male,32,183,81,diarrhea,0.0
+juice,0.0,0.0,10.5,42,0.0,180,male,89,182,61,diarrhea,-36.0
+milk,2.6,10.0,4.5,118,0.0,5,female,95,153,63,no disease,642.0
+yogurt,2.8,1.5,13.2,80,7.4,14,male,61,176,74,diarrhea,0.0
+juice,0.0,0.0,10.5,42,0.0,180,female,96,170,73,ulcer,9.0
+soda,0.0,0.0,4.6,20,4.6,365,female,27,175,57,no disease,112.0
+milk,3.0,3.2,4.7,60,0.0,60,female,61,118,58,constipation,688.0
+juice,0.0,0.0,11.0,44,0.0,365,female,30,144,69,no disease,125.0
+yogurt,2.9,3.5,10.5,85,7.0,14,male,69,181,58,acute infectious diseases,0.0
+bread,8.0,1.0,55.0,260,0.0,4,female,70,141,64,ulcer,62.0
+yogurt,2.9,3.5,10.5,85,7.0,14,female,28,160,59,ulcer,200.0
+soda,0.0,0.0,4.6,20,4.6,365,female,77,155,76,diarrhea,0.0
+bread,6.7,1.4,35.3,131,0.0,4,male,46,186,71,constipation,175.0
+milk,1.5,18.0,3.8,172,1.7,180,female,91,171,65,acute infectious diseases,0.0
+milk,3.0,2.5,4.7,53,0.0,10,female,95,181,63,diarrhea,0.0
+juice,0.0,0.0,11.0,44,0.0,365,male,59,187,75,no disease,265.0
+milk,1.5,18.0,3.8,172,1.7,180,female,54,167,55,ulcer,0.0
+yogurt,3.2,1.9,4.4,50,0.0,14,male,19,196,80,constipation,241.0
+juice,0.0,0.0,12.0,50,6.0,180,female,72,157,65,ulcer,0.0
+yogurt,2.8,1.5,13.2,80,7.4,14,male,92,184,96,constipation,7.0
+soda,0.0,0.0,4.9,20,4.0,180,male,38,190,63,diabetes,50.0
+soda,0.0,0.0,2.5,90,2.5,365,male,19,174,65,diarrhea,3.0
+milk,3.0,2.5,4.7,53,0.0,4,male,88,189,68,constipation,240.0
+yogurt,2.9,2.5,12.0,82,8.0,21,female,38,170,71,no disease,188.0
+juice,0.0,0.0,10.5,42,0.0,180,male,80,211,88,acute infectious diseases,225.0
+bread,7.3,1.2,52.1,249,0.0,3,male,41,181,76,constipation,204.0
+milk,2.8,3.2,9.5,78,5.0,60,male,88,174,85,constipation,286.0
+yogurt,3.0,2.5,16.4,100,10.6,21,male,29,158,77,acute infectious diseases,100.0
+yogurt,3.0,2.5,16.4,100,10.6,21,female,30,204,67,diarrhea,0.0
+milk,1.5,18.0,3.8,172,1.7,180,female,29,162,60,acute infectious diseases,0.0
+milk,2.8,3.2,4.7,60,0.0,3,female,86,157,67,constipation,342.0
+milk,3.0,3.5,4.7,62,0.0,90,male,71,193,59,no disease,1057.0
+milk,1.5,18.0,3.8,172,1.7,180,male,44,184,69,diarrhea,0.0
+juice,0.0,0.0,3.0,15,0.0,180,female,82,150,48,acute infectious diseases,175.0
+yogurt,2.9,3.5,12.0,91,8.0,21,male,83,171,73,diarrhea,0.0
+bread,8.0,3.5,49.5,226,0.0,5,female,30,147,57,diabetes,137.0
+bread,6.5,1.0,42.1,209,0.0,3,female,81,157,44,ulcer,53.0
+bread,7.0,0.8,52.1,253,0.0,3,female,88,158,68,acute infectious diseases,73.0
+milk,3.0,3.2,4.7,60,0.0,60,female,78,162,62,constipation,330.0
+bread,8.4,1.5,54.0,263,0.0,2,female,48,153,61,constipation,152.0
+yogurt,3.0,2.5,16.4,100,10.6,21,female,32,177,60,constipation,17.0
+yogurt,2.9,2.5,12.0,82,8.0,21,female,71,163,61,diarrhea,0.0
+milk,3.0,3.5,4.7,62,0.0,90,male,33,169,77,constipation,658.0
+bread,8.0,1.0,55.0,260,0.0,4,male,63,202,79,acute infectious diseases,97.0
+yogurt,2.8,1.9,14.6,87,0.0,28,male,57,160,75,constipation,245.0
+milk,3.0,2.5,4.7,53,0.0,10,male,49,181,88,constipation,667.0
+milk,3.0,2.5,4.7,53,0.0,4,male,23,154,78,ulcer,0.0
+bread,8.0,1.0,55.0,260,0.0,4,female,91,177,64,diarrhea,99.0
+bread,7.0,0.8,52.1,253,0.0,3,female,66,148,47,constipation,104.0
+juice,0.0,0.0,3.0,15,0.0,180,female,52,160,68,constipation,71.0
+bread,8.0,1.7,46.8,230,0.0,4,female,22,166,53,diarrhea,43.0
+milk,3.0,2.5,4.7,53,0.0,5,male,94,154,93,ulcer,0.0
+yogurt,3.0,2.5,16.4,100,10.6,21,female,87,181,57,acute infectious diseases,100.0
+yogurt,4.4,3.2,7.0,74,0.0,14,female,50,153,56,constipation,238.0
+milk,3.1,1.5,4.7,45,0.0,3,female,98,163,58,diarrhea,0.0
+milk,3.1,0.05,4.7,32,0.0,3,female,44,185,49,constipation,493.0
+yogurt,2.9,3.5,10.5,85,7.0,14,female,51,163,66,diarrhea,0.0
+milk,1.5,18.0,3.8,172,1.7,180,female,44,184,69,diarrhea,0.0
+bread,6.5,1.0,42.1,209,0.0,3,male,44,174,57,diarrhea,262.0
+juice,0.0,0.0,10.5,42,0.0,180,male,49,168,75,constipation,0.0
+yogurt,2.8,1.5,13.2,80,7.4,14,male,94,183,59,diabetes,35.0
+milk,3.0,3.2,4.7,60,0.0,90,female,93,162,67,diabetes,599.0
+soda,0.0,0.0,4.6,20,4.6,365,male,20,142,95,acute infectious diseases,100.0
+milk,3.0,2.5,4.7,53,0.0,10,female,82,161,41,constipation,282.0
+yogurt,2.9,2.5,12.0,82,8.0,21,female,31,130,59,acute infectious diseases,100.0
+soda,0.0,0.0,7.8,31,7.0,180,male,88,160,74,constipation,0.0
+milk,3.1,0.05,4.7,32,0.0,3,female,84,158,86,diarrhea,0.0
+yogurt,2.8,1.9,14.6,87,0.0,28,female,48,144,53,diarrhea,0.0
+soda,0.0,0.0,4.6,20,4.6,365,female,42,158,58,no disease,95.0
+bread,6.7,1.4,35.3,131,0.0,4,male,31,174,90,acute infectious diseases,145.0
+juice,0.0,0.0,11.0,44,0.0,365,female,60,160,54,constipation,0.0
+bread,8.0,3.0,53.0,270,0.0,5,female,95,168,43,diarrhea,27.0
+bread,6.7,1.4,35.3,131,0.0,4,male,89,163,70,diabetes,192.0
+juice,0.0,0.0,12.0,50,6.0,180,male,99,179,82,no disease,229.0
+yogurt,2.8,1.9,14.6,87,0.0,28,male,21,155,71,no disease,176.0
+soda,0.0,0.0,2.5,90,2.5,365,female,61,155,64,no disease,86.0
+yogurt,2.9,2.5,12.0,82,8.0,21,female,97,156,58,constipation,5.0
+yogurt,2.8,1.9,14.6,87,0.0,28,female,89,139,53,acute infectious diseases,200.0
+yogurt,4.1,2.9,14.6,101,7.7,14,male,28,183,73,acute infectious diseases,20.0
+soda,0.0,0.0,11.0,45,9.0,270,male,75,170,76,diarrhea,0.0
+yogurt,2.9,3.5,10.5,85,7.0,14,female,25,167,71,ulcer,200.0
+bread,7.3,1.2,52.1,249,0.0,3,male,20,146,56,ulcer,108.0
+bread,6.5,1.0,42.1,209,0.0,3,male,94,192,78,no disease,210.0
+milk,3.0,2.5,4.7,53,0.0,5,female,34,165,55,diabetes,900.0
+soda,0.0,0.0,11.0,45,9.0,270,female,83,138,49,diabetes,50.0
+milk,2.8,3.2,9.3,77,4.8,30,female,36,176,61,diarrhea,0.0
+soda,0.0,0.0,4.6,20,0.0,270,male,32,177,84,constipation,107.0
+bread,7.0,0.8,52.1,253,0.0,3,female,77,157,71,constipation,98.0
+milk,2.6,10.0,4.5,118,0.0,5,female,60,155,91,diabetes,0.0
+milk,3.0,2.5,4.7,53,0.0,4,female,52,141,47,ulcer,0.0
+bread,8.0,1.0,55.0,260,0.0,4,female,98,157,67,diarrhea,92.0
+yogurt,3.2,1.9,4.4,50,0.0,14,male,71,197,76,acute infectious diseases,200.0
+soda,0.0,0.0,7.8,31,7.0,180,male,46,189,82,diabetes,50.0
+bread,8.0,1.7,46.8,230,0.0,4,female,84,142,75,diabetes,137.0
+yogurt,4.1,2.9,14.6,101,7.7,14,male,28,174,97,constipation,25.0
+juice,0.0,0.0,12.0,50,6.0,180,female,27,156,44,no disease,186.0
+soda,0.0,0.0,11.0,45,9.0,270,male,90,186,83,acute infectious diseases,87.0
+milk,3.0,2.5,4.7,53,0.0,10,female,30,152,62,constipation,822.0
+yogurt,4.4,3.2,7.0,74,0.0,14,male,23,179,86,diarrhea,0.0
+soda,0.0,0.0,4.6,20,4.6,365,female,85,181,58,constipation,0.0
+bread,7.0,1.1,46.9,226,0.0,3,female,37,191,60,acute infectious diseases,80.0
+yogurt,2.9,3.5,10.5,85,7.0,14,female,42,136,59,diarrhea,0.0
+yogurt,2.9,3.5,12.0,91,8.0,21,female,70,142,89,no disease,100.0
+soda,0.0,0.0,4.6,20,4.6,365,male,82,192,76,diarrhea,0.0
+bread,7.0,0.8,52.1,253,0.0,3,female,51,176,73,diabetes,137.0
+yogurt,2.9,3.5,12.0,91,8.0,21,female,83,148,46,no disease,194.0
+juice,0.0,0.0,11.0,44,0.0,365,female,50,182,64,constipation,0.0
+yogurt,2.8,1.5,13.2,80,7.4,14,male,42,151,82,constipation,26.0
+yogurt,4.4,3.2,7.0,74,0.0,14,female,86,151,54,acute infectious diseases,0.0
+bread,7.3,1.2,52.1,249,0.0,3,female,92,149,73,ulcer,45.0
+juice,0.0,0.0,10.5,42,0.0,180,female,97,172,77,constipation,0.0
+bread,8.0,3.5,49.5,226,0.0,5,male,81,153,87,diarrhea,70.0
+yogurt,4.4,3.2,7.0,74,0.0,14,male,99,192,76,ulcer,0.0
+bread,9.0,6.5,45.1,275,0.0,3,female,50,126,52,acute infectious diseases,75.0
+yogurt,3.0,2.5,16.4,100,10.6,21,female,57,159,69,no disease,171.0
+milk,3.0,3.2,4.7,60,0.0,60,female,51,185,72,no disease,807.0
+juice,0.0,0.0,12.0,50,6.0,180,female,56,157,48,constipation,0.0
+juice,0.0,0.0,10.5,42,0.0,180,male,92,179,77,acute infectious diseases,225.0
+soda,0.0,0.0,4.9,20,4.0,180,female,95,205,79,diarrhea,0.0
+yogurt,2.9,3.5,10.5,85,7.0,14,female,31,173,50,diabetes,67.0
+juice,0.0,0.0,3.0,15,0.0,180,male,87,180,64,constipation,36.0
+milk,3.0,3.5,4.7,62,0.0,90,male,80,179,64,ulcer,0.0
+milk,3.0,3.2,4.7,60,0.0,60,female,89,139,56,diabetes,599.0
+milk,3.1,1.5,4.7,45,0.0,3,female,27,162,63,constipation,755.0
+milk,3.0,3.2,4.7,60,0.0,90,female,82,181,56,no disease,892.0
+yogurt,2.9,3.5,10.5,85,7.0,14,male,33,148,67,acute infectious diseases,0.0
+bread,7.0,0.8,52.1,253,0.0,3,male,46,201,63,diabetes,192.0
+yogurt,3.0,2.5,16.4,100,10.6,21,female,89,151,62,constipation,8.0
+milk,1.5,18.0,3.8,172,1.7,180,male,42,150,65,acute infectious diseases,0.0
+milk,2.6,10.0,4.5,118,0.0,5,male,20,159,80,constipation,0.0
+yogurt,2.8,1.5,13.2,80,7.4,14,female,46,165,63,no disease,194.0
+bread,8.0,1.7,46.8,230,0.0,4,female,79,141,67,constipation,109.0
+yogurt,2.9,2.5,12.0,82,8.0,21,male,81,148,72,constipation,12.0
+soda,0.0,0.0,2.5,90,2.5,365,male,70,178,55,acute infectious diseases,100.0
+milk,3.1,1.5,4.7,45,0.0,3,male,34,166,97,no disease,544.0
+bread,6.5,1.0,42.1,209,0.0,3,female,97,153,67,no disease,102.0
+bread,8.0,3.0,53.0,270,0.0,5,female,25,152,42,ulcer,75.0
+yogurt,2.9,3.5,12.0,91,8.0,21,female,85,163,61,diabetes,58.0
+soda,0.0,0.0,4.6,20,4.6,365,male,60,167,65,acute infectious diseases,100.0
+yogurt,2.8,1.9,14.6,87,0.0,28,female,83,156,47,constipation,114.0
+juice,0.0,0.0,3.0,15,0.0,180,female,74,153,58,no disease,158.0
+juice,0.0,0.0,12.0,50,6.0,180,female,74,152,67,no disease,141.0
+milk,3.0,3.2,4.7,60,0.0,90,male,68,159,74,diabetes,599.0
+bread,8.0,3.0,53.0,270,0.0,5,male,73,159,76,ulcer,81.0

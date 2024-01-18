@@ -64,6 +64,13 @@ class DietPredictor:
         # cv_data = cv(Pool(x_data, y_data, cat_features=categotial_features_indexes),
         #     cv_params,
         #     plot=True)
+            
+    def predict(self, product_info, person_info):
+        x = [product_info['product'], product_info['protein'], product_info['fats'], product_info['carbohydrates'],
+             product_info['calorie_content'], product_info['sugar'], product_info['expiration_date']]
+        
+        x.extend([person_info['sex'], person_info['age'], person_info['height'], person_info['weight'], person_info['disease']])
+        return self.regressor.predict(x)
 
 
     @staticmethod
@@ -90,7 +97,7 @@ class DietPredictor:
             
             print(cv_data)
             best_acc = np.max(cv_data['test-MAE-mean'])
-            return -best_acc
+            return best_acc
         
         params_space = {
             'l2_leaf_reg': ho.hp.qloguniform('l2_leaf_reg', 0, 2, 1),

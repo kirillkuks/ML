@@ -23,7 +23,7 @@ class TextRecognizer:
         img = cv2.imread(img_path)
         text = pytesseract.image_to_string(img, lang='rus')
         
-        print(text)
+        #print(text)
         key_words = self._contain_key_word(text)
         print(f'{img_path}: {key_words}')
 
@@ -33,6 +33,7 @@ class TextRecognizer:
         key_words = []
 
         product_info = {
+            'product': None,
             'protein' : None,
             'fats': None,
             'carbohydrates': None,
@@ -92,17 +93,30 @@ class TextRecognizer:
             key_words.append('срок годности')
 
             match = re.search(r'годен\s?[0-9]+\s?[а-яА-Я]+', new_str, re.IGNORECASE)
+            num = None
+            time_metric = None
             if match:
-                print('!!!!!!!!!!!!!!!!!!!!!!')
-                print(match[0])
-                print('!!!!!!!!!!!!!!!!!!!!!!')
+                found = match[0].split(' ')
+                if len(found) > 2:
+                    num = found[1]
+                    time_metric = found[2]
 
             else:
                 match = re.search(r'срок годности\s?[:-—]?\s[0-9]+\s[а-яА-Я]+', new_str, re.IGNORECASE)
                 if match:
-                    print('!!!!!!!!!!!!!!!!!!!!!!')
-                    print(match[0])
-                    print('!!!!!!!!!!!!!!!!!!!!!!')
+                    found = match[0].split(' ')
+                    if len(found) > 3:
+                        num = found[2]
+                        time_metric = found[3]
+
+            if num and time_metric:
+                if is_float(num):
+                    num = int(float(num))
+
+                    if re.search(r'час', time_metric, re.IGNORECASE):
+                        num /= 24
+
+                    product_info['expiration_date'] = num
 
         if re.search(r'сахар[а]?', new_str, re.IGNORECASE) or re.search(r'сахароз[аы]', new_str, re.IGNORECASE):
             key_words.append('сахар')
